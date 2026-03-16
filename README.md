@@ -80,7 +80,7 @@
  <img 
     align="left" 
     alt="Github Status" 
-    width="200px" 
+    width="500px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GabrielLima28&theme=radical&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
 />
