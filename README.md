@@ -4,6 +4,18 @@
 
 
 ---
+### Atualmente estou focado em:
+<img 
+    align="left" 
+    alt="java" 
+    title="java"
+    width="70px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -16,14 +28,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
-<img 
-    align="left" 
-    alt="java" 
-    title="java"
-    width="70px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
+ 
 <img 
     align="left" 
     alt="Mysql" 
